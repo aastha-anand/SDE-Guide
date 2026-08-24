@@ -1,0 +1,16 @@
+#Aws
+AWS stands for Amazon Web Services. It is a big cloud computing platform run by Amazon. It gives people and businesses online access to computer power, storage, and databases.
+
+##Core AWS services-
+-compute: **EC2**, Elasric, benstalk, lambda -Host apps and microservices
+-storage: **S3**-file upload/download
+-DB:**RDS**(mysql,postgres), DynanoDB-db storage
+-Network-VPC, Route s3, ApiGateways- networking custom domain
+-security- **IAM**, secret, managers, cognito- Auth and access controll
+-mointoring- cloudwatch, X-ray- logs meterics and tracing
+-CI/CD- codepipleline, codedeploy - deployment automation
+-IAAS- AWS cloudformation/Terraform - infra as a code
+-Containers- EC2,EKS,Fragate-dockerized apps
+-Messaging- sqs, SNS, EventBridge - Async Processing
+-serverless- **lambda**, springcloud foundation - lightweight serices
+
